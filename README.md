@@ -1,6 +1,15 @@
-# Getting Started with Create React App
-
+## About
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made a while ago, when I was learning how to use React. This project is a calculator that can do basic arithmetic, as well as saving history of the previous calculations
+Enjoy!
+
+## Demo: 
+
+![image](https://github.com/user-attachments/assets/5e4cf5ef-3499-4298-b968-0aec7e0129e8)
+
+Another one with a few calculations:
+
+![image](https://github.com/user-attachments/assets/03cc6532-7341-4cb2-a2b9-d487d74d87a2)
 
 ## Available Scripts
 
@@ -44,27 +53,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
