@@ -1,6 +1,8 @@
 ## About
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project was made a while ago, when I was learning how to use React. This project is a calculator that can do basic arithmetic, as well as saving history of the previous calculations
+
 Enjoy!
 
 ## Demo: 
